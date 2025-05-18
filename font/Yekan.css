@@ -1,0 +1,15 @@
+@font-face {
+    font-family: 'Yekan';
+    src: url('./Yekan/Yekan.woff2') format('woff2'),
+         url('./Yekan/Yekan.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Yekan';
+    src: url('./Yekan/iranyekanwebbold.woff2') format('woff2'),
+         url('./Yekan/iranyekanwebbold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}

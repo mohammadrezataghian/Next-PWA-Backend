@@ -1,0 +1,40 @@
+{
+  "short_name": "رسا",
+  "name": "Rashen Portal",
+  "description":"Rashen webApp",
+  "protocol_handlers": [
+    {
+      "protocol": "web+jngl",
+      "url": "/lookup?type=%s"
+    },
+    {
+      "protocol": "web+jnglstore",
+      "url": "/shop?for=%s"
+    }
+  ],
+  "display_override": ["window-controls-overlay"],
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "logo192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "logo512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/",
+  "id": "/",
+  "background_color": "#FFFFFF",
+  "display": "standalone",
+  "scope": "/",
+  "theme_color": "#6850ff",
+  "orientation": "portrait"
+}

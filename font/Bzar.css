@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Bzar';
+    src: url('./Bzar/BZar.eot');
+    src: url('./Bzar/BZar.eot?#iefix') format('embedded-opentype'),
+         url('./Bzar/BZar.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}

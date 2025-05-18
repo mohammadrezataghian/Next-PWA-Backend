@@ -1,0 +1,16 @@
+@font-face {
+    font-family: 'Bmitra';
+    src: url('./Bmitra/Bmitra.eot');
+    src: url('./Bmitra/Bmitra.eot?#iefix') format('embedded-opentype'),
+         url('./Bmitra/Bmitra.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Bmitra';
+    src: url('./Bmitra/BmitraBold.otf') format('opentype'),
+         url('./Bmitra/BmitraBold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}

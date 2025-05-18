@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/688.ba01136a.chunk.css","mappings":"AAAA,uCAEI,SADA,cACA","sources":["Routes/Protected/SearchPatientForReferal/Styles/Container.Main.Stack.module.scss"],"sourcesContent":[".container{\r\n    margin-top: 2em;\r\n    gap:0.5em;\r\n   \r\n}"],"names":[],"sourceRoot":""}

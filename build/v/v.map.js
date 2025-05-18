@@ -1,0 +1,45 @@
+const v = {
+  app: () => {},
+  css: {
+    iranSans_css: "/v/css/iranSans.css",
+    materialSymbolsOutlined_css: "/v/css/materialSymbolsOutlined.css",
+    prestyle_css: "/v/css/prestyle.css",
+    scrollbars_css: "/v/css/scrollbars.css",
+  },
+  project: {
+    dicom: {
+      box: ({
+        close,
+        maximize,
+        unmaximize,
+        selectBox,
+        updateFrame,
+        pointer,
+        showCursorIcon,
+        hideCursorIcon,
+        getToolName,
+        calculateTransforms,
+        selectHoverLine,
+        onPointerMove,
+      }) => {},
+      canvas: () => {},
+      index: () => {},
+      navbar: ({
+        uploadFiles,
+        setBoxes,
+        setTool,
+        invert,
+        resetImage,
+        addTransform,
+        clearTransforms,
+        setLinked,
+        getLinked,
+        deleteSelectedMeasurement,
+      }) => {},
+      sidebar: ({ useWebGl }) => {},
+    },
+  },
+  util: {
+    bootstrap: () => {},
+  },
+};

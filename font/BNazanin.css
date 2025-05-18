@@ -1,0 +1,15 @@
+@font-face {
+    font-family: 'BNazanin';
+    src: url('./BNazanin/BNazanin.woff2') format('woff2'),
+         url('./BNazanin/BNazanin.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'BNazanin';
+    src: url('./BNazanin/BNaznnBd.woff2') format('woff2'),
+         url('./BNazanin/BNaznnBd.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}
